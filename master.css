@@ -1,0 +1,84 @@
+.ubuntu-light {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* main_color : #240750; */
+/* second_color : #57A6A1; */
+/* ########################################################################## */
+body{
+  background-color: #240750;
+}
+
+.container{
+  text-align: center;
+  border: 100px solid #57A6A1;
+  border-top: 0;
+  color: snow;
+  padding: 2em 4em 2em;
+  margin-bottom: 0;
+}
+
+h1, h2{
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-size: 3em;
+  font-style: normal;
+}
+
+h2{
+  font-size: 2em;
+}
+
+p{
+  font-family: "Ubuntu", sans-serif;
+  margin: 5em 5em 0;
+  text-align: center;
+  font-weight: 300;
+  font-size: 2em;
+  font-style: normal;
+  padding: 0 2em 0;
+}
+
+form{
+  text-align: center;
+  margin: 5% 20% 0;
+}
+
+hr{
+  /* color: #240750; */
+  border: none;
+  height: 1px;
+  margin: 0;
+}
+
+form{
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-size: 1.5em;
+  font-style: normal;
+  text-align: center;
+  margin: 0 auto 0;
+}
+
+input{
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-size: 1em;
+  font-style: normal;
+  width: 30%;
+  height: 40px;
+}
+
+#button{
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-size: 1em;
+  font-style: normal;
+  margin: 30px auto;
+  height: 80px;
+  width: 12%;
+  border-radius: 25px;
+  background-color: orange;
+}
